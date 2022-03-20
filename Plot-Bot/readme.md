@@ -28,9 +28,13 @@
     <h3 align="left">Other features:</h3>
     <ul>
       <li align="left">Sentiment Reaction</li>
-          <li align="left">This bot uses sentiment analysis to react to messages sentiment with an emoji that matches</li>
+          <ul>
+            <li align="left">This bot uses sentiment analysis to react to messages sentiment with an emoji that matches</li>
+          </ul>
       <li align="left">Chatty Bot</li>
-          <li align="left">This bot uses LSTM to have a conversation with other members of the server when said hi.</li>
+          <ul>
+            <li align="left">This bot uses LSTM to have a conversation with other members of the server when said hi.</li>
+          </ul>
     </ul>
 </p>
 
