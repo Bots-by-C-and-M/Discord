@@ -3,7 +3,7 @@
 <!-- Twitter, Discord, Twitch, and Youtube Logo -->
 <br />
 <div align="center">
-  <img src="/images/NLP.png" alt="Logo" width="200" height="200">
+  <img src="/images/Plot-Bot.jpeg" alt="Logo" width="450" height="250">
 <h3 align="center">Plot Bot</h3>
   <p align="center">
     Everyone is the main character of their own story. In discord servers there are a lot of people crossing paths and plot bot is here to help monitor those stories.
