@@ -24,7 +24,7 @@
 <!-- ABOUT THE REPO -->
 <h2 align="left">About The Repository</h2>
 <p align="left">
-    There are a few bots that are going to be in here. 
+    There are a few bots that are going to be in here. (Ordered by Newest/Most Updated to Oldest/Least Updated)
     <ul>
     <li align="left">Sentiment and Topic Modeling Bot</li>
       <ul>  
