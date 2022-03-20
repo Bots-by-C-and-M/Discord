@@ -26,7 +26,7 @@
 <p align="left">
     There are a few bots that are going to be in here. (Ordered by Newest/Most Updated to Oldest/Least Updated)
     <ul>
-    <li align="left">Sentiment and Topic Modeling Bot</li>
+    <li align="left">Plot Bot</li>
       <ul>  
         <li align="left">This bot uses sentiment analysis and topic modeling to send mods information about the server at the end of everyday</li>
       </ul>  
