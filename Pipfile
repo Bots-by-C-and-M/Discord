@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+discord = "*"
+python-dotenv = "*"
+requests = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
+seaborn = "*"
+imageio = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
