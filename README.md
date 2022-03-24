@@ -9,7 +9,7 @@
 <h3 align="center">Discord Bot</h3>
 
   <p align="center">
-    &emsp;Discord is the first bots I am going to make. I am always on discord and seeing all the mods that have been made already has been inspiring me to make my own.
+    &emsp;Discord is the first platform the first few bots were made for. Being on discord and seeing all the bots that have been made already was the inspiration for this repository.
 </br> 
 
 <!-- PROJECT SHIELDS -->
